@@ -37,10 +37,3 @@ echo"Hello World!";
             echo "<br>null:",$null_var;
 
             ?>
-
-
-
-
-
-
-
